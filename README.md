@@ -1,16 +1,15 @@
-# Magesh-G
-# 👋 Hi, I'm Chandra Vikram
+# 👋 Hey there, I'm Magesh G
 
-🚀 **Healthcare Data Analyst | Healthcare Data Science | AI/ML in Healthcare | NLP in Healthcare**
+🚀 ** Data Analyst | Data Scientist | AI/ML/NLP in Healthcare/Mechanical Engineeering/ | NLP | In Healthcare/Manufacturing/Finance/E-Commerce**
 
 ---
 
 ## About Me
 
-- **Education:** MS in Health Informatics at Indiana University Indianapolis *(Graduating May 2025)*
-- **Recognition:** AMIA 2024 HL7 FHIR App Showcase Finalist
-- **Expertise:** AI/ML & NLP in Healthcare, Data Analytics, Clinical & Claims Data Analysis, and Healthcare IT Interoperability
+- **Education:** MS in Applied Data Science at Indiana University Indianapolis *(Graduating May 2025)*
+- **Expertise:** AI/ML, Large Language Models, Computer Vision, Automation Scripting, Data Analytics, IT Interoperability
 - **Focus:** Delivering actionable insights by bridging data, AI, and healthcare
+- **Domains:** Manufacturing | Healthcare | Finance | E-Commerce
 
 ---
 
@@ -64,15 +63,19 @@
 
 ## Professional Projects
 
-### MediRAG: Local RAG System
-- A local Retrieval-Augmented Generation system for accurate medical question answering.
-- Leverages trusted medical documents with state-of-the-art LLMs and retrieval techniques.
-- [View on GitHub](https://github.com/supermax01/MediRAG)
-
-### Carepal: AI Assistant for Cirrhosis Patients
-- Fine-tuned a Phi-4 NLP chatbot achieving 91% response accuracy.
-- Integrated HL7 FHIR API for analyzing EHR data and providing personalized insights.
+### PsyBubba: Psychiatric Mental Health ChatBot
+- Developed a local Retrieval-Augmented Generation (RAG) chatbot for therapy support using GPT-4 (Azure OpenAI), fine-tuned on mental health dialogues and integrated with a local Pinecone vector store.
+- Leveraged trusted clinical documents with state-of-the-art LLMs and retrieval techniques to ensure safe and contextualized responses.
 - Reduced inference latency by 35% through optimized model fine-tuning.
+- Deployed the chatbot via a lightweight web app and automated model updates and monitoring using GitHub Actions and MLflow.
+
+### Brazilian E-Commerce Trend Detection
+- Designed a lightweight GCP pipeline using BigQuery (free tier) and Python for trend detection in Brazilian e-commerce sales data.
+- Forecasted sales trends using Prophet and visualized key patterns with Looker Studio dashboards.
+
+### California Wildfire Visualization Dashboard
+- Created an interactive wildfire dashboard using public NASA FIRMS data, processed with local PySpark scripts and visualized with Mapbox and Leaflet.
+- Built a simple XGBoost model for wildfire risk prediction and automated daily updates with cron jobs and Python scripts.
 
 
 ---
@@ -87,9 +90,9 @@
 
 ## Connect
 
-- [LinkedIn](https://www.linkedin.com/in/chandra-vikram/)
-- [Email](mailto:chandravikram10@outlook.com)
+- [LinkedIn](https://www.linkedin.com/in/mageshgovind/)
+- [Email](mailto:govindmagesh@yahoo.com)
 
 ---
 
-*Let's collaborate on innovative projects that leverage data and AI to improve healthcare outcomes.*
+*Let's collaborate on innovative projects that leverage data and AI to improve the human condition greatly!*
